@@ -1,0 +1,101 @@
+id,name,amount
+1,  Customer   001  , 7 
+2,"say ""hi"" user 2",+4.50
+3,	 padded	name 3 	,15.00
+4,Customer 4,0.00
+5,Customer 5,6.125
+6,Customer 6,18.345
+7,Customer 7, 49 
+8,Customer 8,+16.50
+9,Customer 9,45.00
+10,"Acme, Inc.  division 10",110
+11,  Customer   011  ,12.125
+12,"say ""hi"" user 12",36.345
+13,	 padded	name 13 	, 91 
+14,Customer 14,+28.50
+15,Customer 15,75.00
+16,Customer 16,176
+17,Customer 17,18.125
+18,Customer 18,54.345
+19,Customer 19, 133 
+20,"Acme, Inc.  division 20",+40.50
+21,  Customer   021  ,105.00
+22,"say ""hi"" user 22",242
+23,	 padded	name 23 	,24.125
+24,Customer 24,72.345
+25,Customer 25, 175 
+26,Customer 26,+52.50
+27,Customer 27,135.00
+28,Customer 28,308
+29,Customer 29,30.125
+30,"Acme, Inc.  division 30",90.345
+31,  Customer   031  , 217 
+32,"say ""hi"" user 32",+64.50
+33,	 padded	name 33 	,165.00
+34,Customer 34,374
+35,Customer 35,36.125
+36,Customer 36,108.345
+37,Customer 37, 259 
+38,Customer 38,+76.50
+39,Customer 39,195.00
+40,"Acme, Inc.  division 40",440
+41,  Customer   041  ,42.125
+42,"say ""hi"" user 42",126.345
+43,	 padded	name 43 	, 301 
+44,Customer 44,+88.50
+45,Customer 45,225.00
+46,Customer 46,506
+47,Customer 47,48.125
+48,Customer 48,144.345
+49,Customer 49, 343 
+50,"Acme, Inc.  division 50",+100.50
+51,  Customer   051  ,255.00
+52,"say ""hi"" user 52",572
+53,	 padded	name 53 	,54.125
+54,Customer 54,162.345
+55,Customer 55, 385 
+56,Customer 56,+112.50
+57,Customer 57,285.00
+58,Customer 58,638
+59,Customer 59,60.125
+60,"Acme, Inc.  division 60",180.345
+61,  Customer   061  , 427 
+62,"say ""hi"" user 62",+124.50
+63,	 padded	name 63 	,315.00
+64,Customer 64,704
+65,Customer 65,66.125
+66,Customer 66,198.345
+67,Customer 67, 469 
+68,Customer 68,+136.50
+69,Customer 69,345.00
+70,"Acme, Inc.  division 70",770
+71,  Customer   071  ,72.125
+72,"say ""hi"" user 72",216.345
+73,	 padded	name 73 	, 511 
+74,Customer 74,+148.50
+75,Customer 75,375.00
+76,Customer 76,836
+77,Customer 77,78.125
+78,Customer 78,234.345
+79,Customer 79, 553 
+80,"Acme, Inc.  division 80",+160.50
+81,  Customer   081  ,405.00
+82,"say ""hi"" user 82",902
+83,	 padded	name 83 	,84.125
+84,Customer 84,252.345
+85,Customer 85, 595 
+86,Customer 86,+172.50
+87,Customer 87,435.00
+88,Customer 88,968
+89,Customer 89,90.125
+90,"Acme, Inc.  division 90",270.345
+91,  Customer   091  , 637 
+92,"say ""hi"" user 92",+184.50
+93,	 padded	name 93 	,465.00
+94,Customer 94,1034
+95,Customer 95,96.125
+96,Customer 96,288.345
+97,Customer 97, 679 
+98,Customer 98,+196.50
+99,Customer 99,495.00
+100,"Acme, Inc.  division 100",1100

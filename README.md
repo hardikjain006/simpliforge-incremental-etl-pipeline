@@ -14,6 +14,18 @@ one transformation, one validation rule, and one output.
   additional outputs or reports, streaming, scheduling, and external
   services or databases.
 
+## Run
+
+- From the repository root: `python3 pipeline.py`.
+- This runs the pipeline end to end from `data/input.csv` to
+  `data/output.csv` (override with `--input` / `--output`).
+- Each run prints a human-readable summary to standard output with
+  `rows read`, `rows written`, `rows skipped`, and `new rows` counts.
+- Exit code is `0` on success and non-zero on hard errors (missing or
+  unreadable input, bad header); hard errors write no partial output.
+- Incremental state (input hash and row counts, no timestamps) is kept
+  in `.etl_state.json` at the repository root, outside `data/`.
+
 ## Inputs
 
 ### Source fixture
